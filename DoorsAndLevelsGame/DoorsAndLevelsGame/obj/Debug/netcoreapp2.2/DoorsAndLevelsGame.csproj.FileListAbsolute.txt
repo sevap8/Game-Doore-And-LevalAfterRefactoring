@@ -1,0 +1,11 @@
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\bin\Debug\netcoreapp2.2\DoorsAndLevelsGame.deps.json
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\bin\Debug\netcoreapp2.2\DoorsAndLevelsGame.runtimeconfig.json
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\bin\Debug\netcoreapp2.2\DoorsAndLevelsGame.runtimeconfig.dev.json
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\bin\Debug\netcoreapp2.2\DoorsAndLevelsGame.dll
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\obj\Debug\netcoreapp2.2\DoorsAndLevelsGame.csprojAssemblyReference.cache
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\obj\Debug\netcoreapp2.2\DoorsAndLevelsGame.csproj.CoreCompileInputs.cache
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\obj\Debug\netcoreapp2.2\DoorsAndLevelsGame.AssemblyInfoInputs.cache
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\obj\Debug\netcoreapp2.2\DoorsAndLevelsGame.AssemblyInfo.cs
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\bin\Debug\netcoreapp2.2\DoorsAndLevelsGame.pdb
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\obj\Debug\netcoreapp2.2\DoorsAndLevelsGame.dll
+C:\Users\sevap\source\repos\net-courses-2019\HW2\Seva_Popov\DoorsAndLevelsGame\DoorsAndLevelsGame\obj\Debug\netcoreapp2.2\DoorsAndLevelsGame.pdb
